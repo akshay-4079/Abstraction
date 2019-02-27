@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionEasy", "AbstractionEasy\AbstractionEasy.csproj", "{0BA59A1B-1BCC-47CA-95FD-BC75B8CCF4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionMedium", "AbstractionMedium\AbstractionMedium.csproj", "{653E9845-F514-4003-AA6E-F58D3E42762A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionHard", "AbstractionHard\AbstractionHard.csproj", "{363200D7-D7F3-4885-9DF6-66A64519E1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceHard", "..\Inheritance\InheritanceHard\InheritanceHard.csproj", "{7D9A2814-5741-446F-A497-345A2D9A4789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA59A1B-1BCC-47CA-95FD-BC75B8CCF4E1}.Debug|x86.ActiveCfg = Debug|x86
+		{0BA59A1B-1BCC-47CA-95FD-BC75B8CCF4E1}.Debug|x86.Build.0 = Debug|x86
+		{0BA59A1B-1BCC-47CA-95FD-BC75B8CCF4E1}.Release|x86.ActiveCfg = Release|x86
+		{0BA59A1B-1BCC-47CA-95FD-BC75B8CCF4E1}.Release|x86.Build.0 = Release|x86
+		{653E9845-F514-4003-AA6E-F58D3E42762A}.Debug|x86.ActiveCfg = Debug|x86
+		{653E9845-F514-4003-AA6E-F58D3E42762A}.Debug|x86.Build.0 = Debug|x86
+		{653E9845-F514-4003-AA6E-F58D3E42762A}.Release|x86.ActiveCfg = Release|x86
+		{653E9845-F514-4003-AA6E-F58D3E42762A}.Release|x86.Build.0 = Release|x86
+		{363200D7-D7F3-4885-9DF6-66A64519E1D2}.Debug|x86.ActiveCfg = Debug|x86
+		{363200D7-D7F3-4885-9DF6-66A64519E1D2}.Debug|x86.Build.0 = Debug|x86
+		{363200D7-D7F3-4885-9DF6-66A64519E1D2}.Release|x86.ActiveCfg = Release|x86
+		{363200D7-D7F3-4885-9DF6-66A64519E1D2}.Release|x86.Build.0 = Release|x86
+		{7D9A2814-5741-446F-A497-345A2D9A4789}.Debug|x86.ActiveCfg = Debug|x86
+		{7D9A2814-5741-446F-A497-345A2D9A4789}.Debug|x86.Build.0 = Debug|x86
+		{7D9A2814-5741-446F-A497-345A2D9A4789}.Release|x86.ActiveCfg = Release|x86
+		{7D9A2814-5741-446F-A497-345A2D9A4789}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
